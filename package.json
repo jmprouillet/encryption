@@ -1,0 +1,22 @@
+{
+  "name": "encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johntango/encryption.git"
+  },
+  "author": "john <jrw@mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johntango/encryption/issues"
+  },
+  "homepage": "https://github.com/johntango/encryption#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
